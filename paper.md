@@ -99,9 +99,9 @@ If you want to cite a software repository URL (e.g. something on GitHub without 
 citation) then you can do it with the example BibTeX entry below for @fidgit.
 
 For a quick reference, the following citation commands can be used:
-- `@intakeesm2023`  ->  "Author et al. (2001)"
-- `[@intakeesm2023]` -> "(Author et al., 2001)"
-- `[@intakeesm2023; @intakeesm2022; rocklin2015dask]` -> "(Author1 et al., 2001; Author2 et al., 2002)"
+- @intakeesm2023  ->  "Author et al. (2001)"
+- [@intakeesm2023] -> "(Author et al., 2001)"
+- [@intakeesm2023; @intakeesm2022; rocklin2015dask] -> "(Author1 et al., 2001; Author2 et al., 2002)"
 
 # Figures
 
