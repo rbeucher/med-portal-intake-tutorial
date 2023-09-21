@@ -8,11 +8,11 @@ tags:
 authors:
   - name: Dougal Squire
     orcid: 0000-0003-3271-6874
-    equal-contrib: true
+    equal-contrib: false
     affiliation: 1 # (Multiple affiliations must be quoted)
   - name: Romain Beucher
     orcid: 0000-0002-2207-6837
-    equal-contrib: true
+    equal-contrib: false
     affiliation: 1 # (Multiple affiliations must be quoted)
 affiliations:
  - name: Australian Earth System Simulator (ACCESS-NRI),Canberra, Australia
