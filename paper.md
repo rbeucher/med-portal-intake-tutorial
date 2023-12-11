@@ -106,8 +106,8 @@ For a quick reference, the following citation commands can be used:
 # Figures
 
 Figures can be included like this:
-![Catalog flow\label{fig:catalog_flow}](./figures/catalog_flow.svg)
-and referenced from text using \autoref{fig:catalog_flow}.
+![Catalog flow\label{fig_catalog_flow}](./figures/catalog_flow.svg)
+and referenced from text using \autoref{fig_catalog_flow}.
 
 Figure sizes can be customized by adding an optional second parameter:
 ![Catalog flow](./figures/catalog_flow.svg){ width=20% }
