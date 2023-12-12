@@ -99,17 +99,21 @@ If you want to cite a software repository URL (e.g. something on GitHub without 
 citation) then you can do it with the example BibTeX entry below for @intakeesm2023.
 
 For a quick reference, the following citation commands can be used:
-- @intakeesm2023  ->  "Author et al. (2001)"
-- [@intakeesm2023] -> "(Author et al., 2001)"
-- [@intakeesm2023; @intakeesm2022; rocklin2015dask] -> "(Author1 et al., 2001; Author2 et al., 2002)"
+
+* @intakeesm2023  ->  "Author et al. (2001)"
+* [@intakeesm2023] -> "(Author et al., 2001)"
+* [@intakeesm2023; @intakeesm2022; rocklin2015dask] -> "(Author1 et al., 2001; Author2 et al., 2002)"
 
 # Figures
 
 Figures can be included like this:
+
 ![Catalog flow\label{fig_catalog_flow}](./figures/catalog_flow.svg)
+
 and referenced from text using \autoref{fig_catalog_flow}.
 
 Figure sizes can be customized by adding an optional second parameter:
+
 ![Catalog flow](./figures/catalog_flow.svg){ width=20% }
 
 # Acknowledgements
